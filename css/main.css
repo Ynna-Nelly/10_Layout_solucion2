@@ -1,0 +1,129 @@
+.uno{
+	margin-right: 8.3333%;
+	margin-left: 8.3333%;
+	text-align: center;
+	margin: 18px;
+}
+
+
+li{
+	margin-left: 20px;
+	margin-right: 20px;
+	font-size: 19px;
+	list-style:none;
+	display: inline-block;
+}
+
+a {
+	color:black;
+	text-decoration:none;
+	margin-left: 50px;
+}
+
+.linea{
+	border-left: 1px solid black;
+}
+
+.labimg{
+	width:720px;
+	height: auto;
+}
+
+.alinearhr{
+	margin-left: 35%;
+	margin-top: 10px;
+}
+
+.texto{
+	font-size: 20px;
+	margin-left: 38%;
+}
+
+.dos{
+	margin-left: -5%;
+}
+
+.alinearl{
+	margin:10px;
+}
+
+.caja{
+	display: inline-block;
+	position: relative;
+}
+
+.alumna{
+	display: inline-block;
+	position: relative;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+}
+
+.noma{
+	position: absolute;
+	color: white;
+	padding-top: 185px;
+	padding-left: 10px;
+	left: 30%;
+}
+
+.left{
+	margin-left: -100px;
+}
+
+.left2{
+	margin-left: -35px;
+}
+
+/*Empieza css de coder*/
+
+.borderg{
+	border: 2px solid black;
+}
+
+.circulo{
+	border-radius:100% 
+}
+
+.lorem{
+	text-align: center;
+	margin: 15px;
+	margin-left: 150px;
+}
+
+h1{
+	margin: 20px;
+} 
+
+.rect{
+	height: 45px;
+	background-color: grey;
+	margin: 12px;
+	margin-left: 125px;
+	display: block;	
+}
+
+.hab1{
+	width: 500px;
+}
+
+.hab2{
+	width: 400px;
+}
+
+.hab3{
+	width: 150px;
+}
+
+.barras{
+	color: white;
+	font-size: 16px;
+	padding: 15px;
+	text-align: left;
+}
+
+.retro{
+	width: 200px;
+	height: 150px;
+}
